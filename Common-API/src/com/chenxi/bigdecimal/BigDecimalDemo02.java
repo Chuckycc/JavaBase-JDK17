@@ -1,4 +1,4 @@
-package com.chenxi.bigDecimal;
+package com.chenxi.bigdecimal;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

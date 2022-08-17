@@ -1,4 +1,4 @@
-package com.chenxi.date;
+package com.chenxi.jdk7date;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package com.chenxi.calendar;
+package com.chenxi.jdk7calendar;
 
 import java.util.Calendar;
 import java.util.Date;

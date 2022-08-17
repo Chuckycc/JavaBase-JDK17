@@ -1,4 +1,4 @@
-package com.chenxi.simpledateformat;
+package com.chenxi.jdk7simpledateformat;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
